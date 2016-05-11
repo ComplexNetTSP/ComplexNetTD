@@ -1,0 +1,73 @@
+<style>
+    div.cell{
+      width:800px;
+      margin-left:16% !important;
+      margin-right:auto;
+    }
+
+    h1,h2,h3,h4,h5 {
+      align: left;
+      font-family:"Charis SIL", serif;
+    }
+
+    div.text_cell_render{
+      width:800px;
+      font-family: "Charis SIL", sans-serif;
+      line-height: 145%;
+      font-size: 145%;
+      line-height: 145%;
+    }
+
+    .CodeMirror{
+      font-family: "Source Code Pro", monospace;
+    }
+
+    .prompt{
+      display: None;
+    }
+
+    .text_cell_render h5 {
+      font-weight: 300;
+      font-size: 22pt;
+      color: #4057A1;
+      font-style: italic;
+      margin-bottom: .5em;
+      margin-top: 0.5em;
+      display: block;
+    }
+
+    div.warn {
+      margin-top: 30px;
+      background-color: #fcf2f2;
+      border-color: #dFb5b4;
+      border-left: 5px solid #dfb5b4;
+      padding: 0.5em;
+    }
+
+    div.green {
+      margin-top: 30px;
+      background-color: #adf08d;
+      border-color: #34c123;
+      border-left: 5px solid #34c123;
+      padding: 0.5em;
+    }
+
+</style>
+<script>
+    MathJax.Hub.Config({
+      TeX: {
+        extensions: ["AMSmath.js"],
+        //equationNumbers: { autoNumber: "AMS" , useLabelIds: false}
+      },
+      tex2jax: {
+        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+        processEscapes: true,
+        processEnvironments: true
+      },
+      displayAlign: 'center',
+      "HTML-CSS": {
+        styles: {'.MathJax_Display': {"margin": 4}}
+      }
+    });
+</script>
