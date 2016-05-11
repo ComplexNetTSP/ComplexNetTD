@@ -10,16 +10,21 @@
     }
 
     div.text_cell_render{
+      /*
       font-family: "Charis SIL", sans-serif;
+      */
       line-height: 145%;
       font-size: 145%;
       line-height: 145%;
     }
 
+
+    /*
     .CodeMirror{
       font-family: "Source Code Pro", monospace;
     }
-
+    */
+    
     .text_cell_render h5 {
       font-weight: 300;
       font-size: 22pt;
@@ -47,21 +52,3 @@
     }
 
 </style>
-<script>
-    MathJax.Hub.Config({
-      TeX: {
-        extensions: ["AMSmath.js"],
-        //equationNumbers: { autoNumber: "AMS" , useLabelIds: false}
-      },
-      tex2jax: {
-        inlineMath: [ ['$','$'], ["\\(","\\)"] ],
-        displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
-        processEscapes: true,
-        processEnvironments: true
-      },
-      displayAlign: 'center',
-      "HTML-CSS": {
-        styles: {'.MathJax_Display': {"margin": 4}}
-      }
-    });
-</script>
