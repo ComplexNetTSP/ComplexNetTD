@@ -1,6 +1,6 @@
 # NET4103: TD1 et TD2 cours de Réseaux Complex 
 
-## Software
+## Distribution logiciel du langage python
 * [Download Anaconda pour OSX/Windows/Linux](https://www.continuum.io/downloads)
 
 ## Lancer ipython sous Windows/Linux/OSX
