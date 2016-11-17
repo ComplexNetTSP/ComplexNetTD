@@ -5,7 +5,7 @@
 
 ## Lancer ipython sous Windows/Linux/OSX
 1. Ouvrir un terminal (''cmd'' sous Windows)
-4. ipython notebook (ou jupyter-notebook suivant la version)
+4. **ipython3 notebook** (ou **jupyter-notebook** suivant la version)
 5. Dans le navigateur taper: localhost:8888
 
 ## Guides pour le langage Python
