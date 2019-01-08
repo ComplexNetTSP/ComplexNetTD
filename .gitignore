@@ -3,3 +3,5 @@
 */.DS_Store
 **/.DS_Store
 .nbgrader.log
+gradebook.db
+nbgrader_config.py
