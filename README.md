@@ -1,7 +1,7 @@
-# NET4103: TD1 et TD2 cours de Réseaux Complexes 
+# NET4103: TP1 et TP2 du cours de Réseaux Complexes 
 
 ## Git Repository
-* doc : Documentation sur la language Python
+* doc : Documentation sur le langage Python
 * release/TP1, release/TP2: énoncé du TP1 et 2
 * source/TP1: solution pour le TP1  
 
