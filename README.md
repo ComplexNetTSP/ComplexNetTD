@@ -7,7 +7,7 @@
 
 
 ## Distribution logiciel du langage python
-* [Download Anaconda pour OSX/Windows/Linux](https://www.continuum.io/downloads)
+* [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/download/)
 
 ## Lancer ipython sous Windows/Linux/OSX
 1. Ouvrir un terminal (''cmd'' sous Windows)
