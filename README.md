@@ -1,19 +1,17 @@
 # NET4103: TP1 et TP2 du cours de Réseaux Complexes 
 
 ## Git Repository
-* doc : Documentation sur le langage Python
-* release/TP1, release/TP2: énoncé du TP1 et 2
-* source/TP1: solution pour le TP1  
+* doc : Documentation about python 
+* release/TP1, release/TP2: Labs materials
+* source/TP1: solution for the lab 1
 
 
-## Distribution logiciel du langage python
+## Download the python distribution 
 * [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/download/)
 
-## Lancer ipython sous Windows/Linux/OSX
-1. Ouvrir un terminal (''cmd'' sous Windows)
-2. **ipython3 notebook** (ou **jupyter-notebook** suivant la version)
-3. Dans le navigateur taper: localhost:8888
 
 ## Guides pour le langage Python
-* [1] [Scipy Lecture Notes](http://www.scipy-lectures.org/). (en)
-* [2] Bob Cordeau et Laurent Pointal, [Une introduction à Python 3](http://hebergement.u-psud.fr/iut-orsay/Pedagogie/MPHY/Python/courspython3.pdf). (fr)
+* [1] [Jake VanderPlas, Python Data Science Handbook,  O′Reilly  (2016)](https://jakevdp.github.io/PythonDataScienceHandbook/)
+* [2] [Wes McKinney, Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, O′Reilly (2015)](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
+* [2] [Scipy Lecture Notes](http://www.scipy-lectures.org/). (en)
+* [3] (French) Bob Cordeau et Laurent Pointal, [Une introduction à Python 3](http://hebergement.u-psud.fr/iut-orsay/Pedagogie/MPHY/Python/courspython3.pdf). (fr)
