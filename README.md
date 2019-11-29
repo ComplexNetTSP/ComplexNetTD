@@ -1,4 +1,4 @@
-# NET4103: TP1 et TP2 du cours de Réseaux Complexes 
+# NET4103/NET7431 Labs materials
 
 ## Git Repository
 * doc : Documentation about python 
