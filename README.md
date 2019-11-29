@@ -1,4 +1,4 @@
-# NET4103/NET7431 Labs materials
+# NET 4103/7431: Labs materials
 
 ## Git Repository
 * doc : Documentation about python 
