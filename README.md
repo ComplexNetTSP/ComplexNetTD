@@ -1,4 +1,4 @@
-# NET4103: TP1 et TP2 du cours de Réseaux Complexes 
+# NET 4103/7431: Labs materials
 
 ## Git Repository
 * doc : Documentation about python 
@@ -10,7 +10,7 @@
 * [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/download/)
 
 
-## Guides pour le langage Python
+## Python lang documentation 
 * [1] [Jake VanderPlas, Python Data Science Handbook,  O′Reilly  (2016)](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [2] [Wes McKinney, Python for Data Analysis: Data Wrangling with Pandas, NumPy, and IPython, O′Reilly (2017)](https://bedford-computing.co.uk/learning/wp-content/uploads/2015/10/Python-for-Data-Analysis.pdf)
 * [3] [Scipy Lecture Notes](http://www.scipy-lectures.org/). (en)
