@@ -2,8 +2,8 @@
 
 ## Git Repository
 * doc : Documentation about python 
-* release/TP1, release/TP2: Labs materials
-* source/TP1: solution for the lab 1
+* release/Lab 1 ... : exercice sheet for the labs 
+* source/Lab 1... : solutions
 
 
 ## Download the python distribution 
