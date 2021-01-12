@@ -7,7 +7,7 @@
 
 
 ## Download the python distribution 
-* [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/download/)
+* [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/products/individual)
 
 
 ## Python lang documentation 
