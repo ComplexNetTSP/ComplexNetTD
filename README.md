@@ -1,9 +1,24 @@
 # NET 4103/7431: Labs materials
 
-## Content of the git Repository
+## Contents of the git Repository
 #### Documentation  
 * [Intoduction à la programmation avec le language Python](doc/IntroPython.pdf)
 * [Python for data Analysis](doc/Python-for-Data-Analysis.pdf)
+
+#### Lab exercices 
+* [Lab 1 (EN)](release/Lab%201%20-%20EN/Lab%201%20-%20EN.ipynb)
+    * [Lab 1 Solution (EN)](source/Lab%201%20-%20EN/Lab%201%20-%20EN.ipynb)
+* [Lab 2 (EN)](release/Lab%202%20-%20EN/Lab%202%20-%20EN.ipynb)
+* [Lab 2 (FR)](release/Lab%202%20-%20FR/Lab%202%20-%20FR.ipynb)
+* [Lab 3](release/Lab%203/Lab%203%20-%20Community%20Detection.ipynb)
+
+#### Data
+* Comtrade: The [UN Comtrade](https://comtrade.un.org/) Database houses detailed global trade data.
+* Game Of Thrones: [Kaggle Game of Thrones: Network Analysis](https://www.kaggle.com/mmmarchetti/game-of-thrones-network-analysis/notebook)
+* Wikipedia: Small subset of wikipedia articles in form : Page Id, Page Title, Keywords 
+* Facebook: this dataset consists of 'circles' (or 'friends lists') from Facebook. Facebook data was collected by [1] from survey participants using this Facebook app. The dataset includes node features (profiles), circles, and ego networks.
+
+_[1]_ the J. McAuley and J. Leskovec. [Learning to Discover Social Circles in Ego Networks](http://i.stanford.edu/~julian/pdfs/nips2012.pdf). NIPS, 2012.
 
 #### Other Python resources online 
 * [Jake VanderPlas, Python Data Science Handbook,  O′Reilly  (2016)](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -11,11 +26,6 @@
 * [Scipy Lecture Notes](http://www.scipy-lectures.org/)
 * [Une introduction à Python 3](http://hebergement.u-psud.fr/iut-orsay/Pedagogie/MPHY/Python/courspython3.pdf).
 
-#### Lab exercices 
-* [Lab 1 (EN)](release/Lab%201%20-%20EN/Lab%201%20-%20EN.ipynb)
-* [Lab 2 (EN)](release/Lab%202%20-%20EN/Lab%202%20-%20EN.ipynb)
-* [Lab 2 (FR)](release/Lab%202%20-%20FR/Lab%202%20-%20FR.ipynb)
-* [Lab 3](release/Lab%203/Lab%203%20-%20Community%20Detection.ipynb)
-
 ## Recomended Python distribution 
 * [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/products/individual)
+* [Google Colab](https://colab.research.google.com/)
