@@ -5,7 +5,6 @@
 .nbgrader.log
 gradebook.db
 nbgrader_config.py
-source/TP2/
 source/header.ipynb
 Data/Wikipedia/plaintext_articles/
 source/Lab 2/
