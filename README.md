@@ -6,10 +6,9 @@
 * [Python for data Analysis](doc/Python-for-Data-Analysis.pdf)
 
 #### Lab exercices 
-* [Lab 1 (EN)](release/Lab%201%20-%20EN/Lab%201%20-%20EN.ipynb)
-    * [Lab 1 Solution (EN)](source/Lab%201%20-%20EN/Lab%201%20-%20EN.ipynb)
-* [Lab 2 (EN)](release/Lab%202%20-%20EN/Lab%202%20-%20EN.ipynb)
-* [Lab 2 (FR)](release/Lab%202%20-%20FR/Lab%202%20-%20FR.ipynb)
+* [Lab 1](release/Lab%201/Lab%201.ipynb)
+    * [Lab 1 Solution](source//Lab%201/Lab%201.ipynb)
+* [Lab 2](release/Lab%202/Lab%202.ipynb)
 * [Lab 3](release/Lab%203/Lab%203%20-%20Community%20Detection.ipynb)
 
 #### Data
