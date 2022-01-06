@@ -9,7 +9,7 @@
 * [Lab 1](release/Lab%201/Lab%201.ipynb)
     * [Lab 1 Solution](source//Lab%201/Lab%201.ipynb)
 * [Lab 2](release/Lab%202/Lab%202.ipynb)
-* [Lab 3](release/Lab%203/Lab%203%20-%20Community%20Detection.ipynb)
+* [Lab 3](release/Lab%203/Lab%203.ipynb)
 
 #### Data
 * Comtrade: The [UN Comtrade](https://comtrade.un.org/) Database houses detailed global trade data.
