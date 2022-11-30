@@ -12,6 +12,18 @@
 * [Lab 3](release/Lab%203/Lab%203.ipynb)
 * [Lab 4](release/Lab%204/Lab%204.ipynb)
 
+## install virtual enviroement for pytorch
+```bash
+$ python -m venv pytorch
+$ source pytorch/bin/activate
+$ python -m pip install -r requirements.txt  
+```
+
+## Create the jupyter kernel for the pytorch enviroment 
+```bash
+$ python -m ipykernel install --user --name=pytorch 
+```
+
 #### Data
 * Comtrade: The [UN Comtrade](https://comtrade.un.org/) Database houses detailed global trade data.
 * Game Of Thrones: [Kaggle Game of Thrones: Network Analysis](https://www.kaggle.com/mmmarchetti/game-of-thrones-network-analysis/notebook)
