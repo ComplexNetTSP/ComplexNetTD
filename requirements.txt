@@ -11,3 +11,5 @@ pytorch-lightning>=1.4
 tensorboard
 scikit-learn
 mlflow
+neo4j-driver
+scikit-network

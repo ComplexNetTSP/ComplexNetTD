@@ -12,16 +12,17 @@
 * [Lab 3](release/Lab%203/Lab%203.ipynb)
 * [Lab 4](release/Lab%204/Lab%204.ipynb)
 
-## install virtual enviroement for pytorch
+## install virtual environement required for all the labs
 ```bash
-$ python -m venv pytorch
-$ source pytorch/bin/activate
+$ python -m venv net
+$ source net/bin/activate
+$ pip install --upgrade pip
 $ python -m pip install -r requirements.txt  
 ```
 
-## Create the jupyter kernel for the pytorch enviroment 
+## Create the jupyter kernel for the labs
 ```bash
-$ python -m ipykernel install --user --name=pytorch 
+$ python -m ipykernel install --user --name=net 
 ```
 
 #### Data
