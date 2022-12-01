@@ -24,7 +24,7 @@ $ python -m pip install -r requirements.txt
 
 #### with conda 
 ```bash
-$ conda create -n net python=3.8
+$ conda create -n net python=3.8    
 $ conda activate net
 $ pip3 install --upgrade pip
 $ pip install -r requirements.txt  
