@@ -4,6 +4,7 @@ ipykernel
 matplotlib
 tqdm
 numpy
+scipy
 networkx
 setuptools==59.5.0
 torch>=1.8

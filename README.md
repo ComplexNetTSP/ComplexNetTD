@@ -13,11 +13,21 @@
 * [Lab 4](release/Lab%204/Lab%204.ipynb)
 
 ## install virtual environement required for all the labs
+
+#### With virtualenv
 ```bash
 $ python -m venv net
 $ source net/bin/activate
 $ pip install --upgrade pip
 $ python -m pip install -r requirements.txt  
+```
+
+#### with conda 
+```bash
+$ conda create -n net python=3.8
+$ conda activate net
+$ pip3 install --upgrade pip
+$ pip install -r requirements.txt  
 ```
 
 ## Create the jupyter kernel for the labs
