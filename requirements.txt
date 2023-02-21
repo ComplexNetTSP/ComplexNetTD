@@ -9,7 +9,7 @@ networkx>=3.0
 setuptools>=59.5.0
 torch>=1.13.0
 tensorboard
-scikit-learn>=1.1.3
+scikit-learn>=1.0
 y-py>=0.4.6
 mlflow
 neo4j-driver
