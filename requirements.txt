@@ -18,4 +18,6 @@ mlflow
 neo4j-driver
 scikit-network
 ogb
+ninja 
+wheel
 torch_geometric
