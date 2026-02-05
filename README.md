@@ -11,6 +11,8 @@
 * [Lab 2](release/Lab%202/Lab%202.ipynb)
 * [Lab 3](release/Lab%203/Lab%203.ipynb)
 * [Lab 4](release/Lab%204/Lab%204.ipynb)
+* [Lab 5](release/Lab%205/Lab5%20-%20MF.ipynb)
+* [Lab 6](release/Lab%206/Lab%206%20-%20LightGCN%20MovieLens.ipynb)
 
 ## install virtual environement required for all the labs
 
