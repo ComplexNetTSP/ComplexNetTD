@@ -12,8 +12,13 @@ source/Lab 3/
 source/Lab 4/
 source/Lab 5/
 source/Lab 6/
+source/Lab 7/
 release/Lab 4/data/
 release/Lab 4/mlruns/
 release/Lab 4/runs/
 net/
 .virtual_documents/
+complex_network_labs.egg-info
+release/Lab 5/data/
+release/Lab 5/saved_models/
+release/Lab 5/wandb/
