@@ -13,6 +13,10 @@
 * [Lab 4](release/Lab%204/Lab%204.ipynb)
 * [Lab 5](release/Lab%205/Lab5%20-%20MF.ipynb)
 * [Lab 6](release/Lab%206/Lab%206%20-%20LightGCN%20MovieLens.ipynb)
+* [Lab 7 - Part 1](release/Lab%207/Lab%207%20-%20Part%201.ipynb)
+* [Lab 7 - Part 2](release/Lab%207/Lab%207%20-%20Part%202.ipynb)
+* [Lab 7 - Part 3](release/Lab%207/Lab%207%20-%20Part%203.ipynb)
+* [Lab 7 - Part 4](release/Lab%207/Lab%207%20-%20Part%204.ipynb)
 
 ## Install and use uv
 
