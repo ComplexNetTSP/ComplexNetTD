@@ -14,28 +14,27 @@
 * [Lab 5](release/Lab%205/Lab5%20-%20MF.ipynb)
 * [Lab 6](release/Lab%206/Lab%206%20-%20LightGCN%20MovieLens.ipynb)
 
-## install virtual environement required for all the labs
+## Install and use uv
 
-#### With virtualenv
+Install uv following the [official instructions](https://docs.astral.sh/uv/getting-started/installation/). From the repository root, create the project environment and install the declared dependencies:
+
 ```bash
-$ python -m venv net
-$ source net/bin/activate
-$ pip install --upgrade pip
-$ python -m pip install -r requirements.txt  
+$ uv sync
 ```
 
-#### with conda 
+Run JupyterLab from that environment:
+
 ```bash
-$ conda create -n net python=3.8    
-$ conda activate net
-$ pip3 install --upgrade pip
-$ pip install -r requirements.txt  
+$ uv run jupyter lab
 ```
 
-## Create the jupyter kernel for the labs
+If you use Jupyter from another environment, register the project environment as a kernel:
+
 ```bash
-$ python -m ipykernel install --user --name=net 
+$ uv run python -m ipykernel install --user --name=net --display-name="Python (net)"
 ```
+
+Kernel registration is optional when Jupyter is already launched with `uv run` from this project.
 
 #### Data
 * Comtrade: The [UN Comtrade](https://comtrade.un.org/) Database houses detailed global trade data.
@@ -52,5 +51,4 @@ _[1]_ the J. McAuley and J. Leskovec. [Learning to Discover Social Circles in Eg
 * [Une introduction à Python 3](http://hebergement.u-psud.fr/iut-orsay/Pedagogie/MPHY/Python/courspython3.pdf).
 
 ## Recomended Python distribution 
-* [Download Anaconda pour OSX/Windows/Linux](https://www.anaconda.com/products/individual)
 * [Google Colab](https://colab.research.google.com/)
