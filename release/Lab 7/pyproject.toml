@@ -1,0 +1,21 @@
+[project]
+name = "lab7"
+version = "0.1.0"
+description = "Graph Rag Lab"
+readme = "README.md"
+authors = [
+  { name = "Vincent Gauthier", email = "vincent.gauthier@telecom-sudparis.eu" }
+]
+requires-python = ">=3.12,<3.13"
+dependencies = [
+    "numpy",
+    "jupyterlab",
+    "ipywidgets",
+    "sentence-transformers",
+    "pandas",
+    "scikit-learn",
+    "datasets",
+    "duckdb",
+    "spacy",
+    "gliner"
+]
